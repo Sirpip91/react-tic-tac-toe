@@ -1,9 +1,9 @@
 # Welcome to Tic-Tac-Toe
-This is a tic-tac-toe game made in react please enjoy
+This is a tic-tac-toe game made in react please enjoy.
 
 
 
-## Link
+## Link to test out live!!!
 
-### `www.blabla`
+### `https://sirpip91.github.io/react-tic-tac-toe/`
 
